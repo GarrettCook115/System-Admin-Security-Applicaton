@@ -1,8 +1,14 @@
-Basic Tkinter-based Python web applications for Windows and various OS command-line executables. 
+**System Admin Security Application**
+[![GitHub release](https://img.shields.io/github/v/release/GarrettCook115/System-Admin-Security-Applicaton)]
 
+<<<<<<< HEAD:README.md
 ![GitHub release](https://img.shields.io/github/v/release/GarrettCook115/System-Admin-Security-Applicaton)
 
 __Each executable File folder holds the .exe app for each project of the three: If you want to run it without looking at the code. YOU MUST ALSO DOWNLOAD THE INTERNAL FILES, AS THEY'RE REQUIRED FOR THE FUNCTIONALITY OF EACH ALSO. IF YOU DOWNLOAD AN .EXE FILE YOU MUST ALSO DOWNLOAD ITS "INTERNAL" FOLDER ALSO, OR IT WILL NOT WORK__
+=======
+
+__Each executable File folder holds the .exe app for each project of the three. If you want to run it without looking at the code. YOU MUST ALSO DOWNLOAD THE INTERNAL FILES, AS THEY'RE REQUIRED FOR THE FUNCTIONALITY OF EACH ALSO. IF YOU DOWNLOAD AN .EXE FILE YOU MUST ALSO DOWNLOAD ITS "INTERNAL" FOLDER ALSO, OR IT WILL NOT WORK__
+>>>>>>> 66ec8825bcc3dc1e4d47d010964904640568ad4e:README
 
 **--Must run each executable app within its designated folder containing "_internal folder" to function. *IF not, nothing will execute/run, or run the .exe files already packaged** DOWNLOAD BOTH IF USING THIS METHOD."
 **Code Projects are executable by running code in an IDE**
@@ -29,16 +35,14 @@ To execute the Flask.py File and the others as well
 
 
 FlaskApp : 
-1. Run the program in an IDE or from the FlaskAPP executable
+1. Run the program in an IDE or from the FlaskApp executable
 2. Go to the loopback address displayed in the CMD prompt/Terminal on the IDE, and the dropdown should be displayed as such in the example images. (If any problems, rerun the app and try again) <--Quick Fix
 
 
 __WARNING__ - ONLY USE THESE APPLICATIONS ON TRUSTED AND HOME-OWNED NETWORKS!!! For Educational Use ONLY!!!
 
-__Completed Released App with frequent updates:__ 
+__Completed Released App with frequent updates:__ https://github.com/GarrettCook115/tkinter-command-Applicaton--Git-/releases/tag/systemadminsecurity 
 
 
 
 ![Screenshot](https://raw.githubusercontent.com/GarrettCook115/WebSite-Command-Prompt-Execution-APPS/main/Screenshot%202026-04-02%20194725.png)
-
-
