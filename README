@@ -1,9 +1,4 @@
-<p align="center">
-  <img src="https://img.shields.io/github/v/release/GarrettCook115/System-Admin-Security-Applicaton">
-  <img src="https://img.shields.io/badge/License-MIT-yellow.svg">
-  <img src="https://img.shields.io/badge/Python-3.10-blue.svg">
-</p># System Admin Security Application
-
+# System Admin Security Application
 ![GitHub release](https://img.shields.io/github/v/release/GarrettCook115/System-Admin-Security-Applicaton)
 
 Basic Tkinter-based Python web applications for Windows and various OS command-line executables. 
@@ -35,7 +30,7 @@ To execute the Flask.py File and the others as well
 
 
 FlaskApp : 
-1. Run the program in an IDE or from the FlaskAPP executable
+1. Run the program in an IDE or from the FlaskApp executable
 2. Go to the loopback address displayed in the CMD prompt/Terminal on the IDE, and the dropdown should be displayed as such in the example images. (If any problems, rerun the app and try again) <--Quick Fix
 
 
