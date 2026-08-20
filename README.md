@@ -1,5 +1,7 @@
 Basic Tkinter-based Python web applications for Windows and various OS command-line executables. 
 
+![GitHub release](https://img.shields.io/github/v/release/GarrettCook115/System-Admin-Security-Applicaton)
+
 __Each executable File folder holds the .exe app for each project of the three: If you want to run it without looking at the code. YOU MUST ALSO DOWNLOAD THE INTERNAL FILES, AS THEY'RE REQUIRED FOR THE FUNCTIONALITY OF EACH ALSO. IF YOU DOWNLOAD AN .EXE FILE YOU MUST ALSO DOWNLOAD ITS "INTERNAL" FOLDER ALSO, OR IT WILL NOT WORK__
 
 **--Must run each executable app within its designated folder containing "_internal folder" to function. *IF not, nothing will execute/run, or run the .exe files already packaged** DOWNLOAD BOTH IF USING THIS METHOD."
