@@ -1,2 +1,2 @@
-#ignore build dependencies
+#ignore build dependencies(Hides this folder from Github repo) good for removign private/personnal files i don't want shared/shown
 build/
