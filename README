@@ -1,4 +1,9 @@
-# System Admin Security Application
+<p align="center">
+  <img src="https://img.shields.io/github/v/release/GarrettCook115/System-Admin-Security-Applicaton">
+  <img src="https://img.shields.io/badge/License-MIT-yellow.svg">
+  <img src="https://img.shields.io/badge/Python-3.10-blue.svg">
+</p># System Admin Security Application
+
 ![GitHub release](https://img.shields.io/github/v/release/GarrettCook115/System-Admin-Security-Applicaton)
 
 Basic Tkinter-based Python web applications for Windows and various OS command-line executables. 
