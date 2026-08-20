@@ -1,14 +1,8 @@
 **System Admin Security Application**
 [![GitHub release](https://img.shields.io/github/v/release/GarrettCook115/System-Admin-Security-Applicaton)]
 
-<<<<<<< HEAD:README.md
-![GitHub release](https://img.shields.io/github/v/release/GarrettCook115/System-Admin-Security-Applicaton)
-
 __Each executable File folder holds the .exe app for each project of the three: If you want to run it without looking at the code. YOU MUST ALSO DOWNLOAD THE INTERNAL FILES, AS THEY'RE REQUIRED FOR THE FUNCTIONALITY OF EACH ALSO. IF YOU DOWNLOAD AN .EXE FILE YOU MUST ALSO DOWNLOAD ITS "INTERNAL" FOLDER ALSO, OR IT WILL NOT WORK__
 =======
-
-__Each executable File folder holds the .exe app for each project of the three. If you want to run it without looking at the code. YOU MUST ALSO DOWNLOAD THE INTERNAL FILES, AS THEY'RE REQUIRED FOR THE FUNCTIONALITY OF EACH ALSO. IF YOU DOWNLOAD AN .EXE FILE YOU MUST ALSO DOWNLOAD ITS "INTERNAL" FOLDER ALSO, OR IT WILL NOT WORK__
->>>>>>> 66ec8825bcc3dc1e4d47d010964904640568ad4e:README
 
 **--Must run each executable app within its designated folder containing "_internal folder" to function. *IF not, nothing will execute/run, or run the .exe files already packaged** DOWNLOAD BOTH IF USING THIS METHOD."
 **Code Projects are executable by running code in an IDE**
