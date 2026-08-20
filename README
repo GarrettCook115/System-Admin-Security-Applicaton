@@ -1,6 +1,9 @@
 # System Admin Security Application
 ![GitHub release](https://img.shields.io/github/v/release/GarrettCook115/System-Admin-Security-Applicaton)
-
+[![License](https://img.shields.io/badge/License-GPL--3.0%20%2B%20Commercial-blue.svg)](LICENSE)
+[![Research](https://img.shields.io/badge/Research-Geometric%20Intelligence-green.svg)](https://github.com/bmalloy-224/MaGi_python)
+[![Platform](https://img.shields.io/badge/Platform-Python%203.x%20%7C%20PyTorch%20%7C%20CUDA-orange.svg)](https://github.com/bmalloy-224/MaGi_python)
+[![Status](https://img.shields.io/badge/Status-Experimental%20Research-brightgreen.svg)](https://github.com/bmalloy-224/MaGi_python)
 Basic Tkinter-based Python web applications for Windows and various OS command-line executables. 
 
 __Each executable File folder holds the .exe app for each project of the three: If you want to run it without looking at the code. YOU MUST ALSO DOWNLOAD THE INTERNAL FILES, AS THEY'RE REQUIRED FOR THE FUNCTIONALITY OF EACH ALSO. IF YOU DOWNLOAD AN .EXE FILE YOU MUST ALSO DOWNLOAD ITS "INTERNAL" FOLDER ALSO, OR IT WILL NOT WORK__
