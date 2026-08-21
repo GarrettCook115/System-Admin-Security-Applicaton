@@ -1,7 +1,9 @@
 #ignore build dependencies(Hides this folder from Github repo) good for removign private/personnal files i don't want shared/shown
 build/
-# use these commands in order to accomplish this
+#ignores folder dependencies of build file
+build/
+#use these in order to accomplish 
 #git rm -r --cached "foldername/"
 #git add .gitignore
-#git commit -m "Remove build from Git tracking" or "Stop tracking Fodlername"
+#git commit -m "Remove foldername from Git tracking" or "Stop tracking Foldername" or "add foldername to .gitignore"
 #git push
